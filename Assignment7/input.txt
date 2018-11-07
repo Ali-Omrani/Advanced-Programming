@@ -1,0 +1,20 @@
+login admin password
+menu [SAT, chicken kebab, 28000], [SAT, chicken wings, 29500], [SUN, chicken wings, 28000]
+show recipes
+confirm
+logout
+login hassan 1234
+login hassan 12345
+show menu
+reserve SAT chicken kebab
+reserve SUN chicken wings
+logout
+login admin password
+shipment [chicken, 13, 16500]
+logout
+login taghi s3cret
+reserve SAT chicken wings
+logout
+login admin password
+show reservations
+finilize reservations

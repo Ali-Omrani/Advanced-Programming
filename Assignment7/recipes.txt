@@ -1,0 +1,4 @@
+# chicken kebab
+[chicken, 18], [paprika, 1], [blackpepper, 1], [rice, 12]
+# chicken wings
+[chicken, 25], [soysauce, 3], [ginger, 4], [blackpepper, 1]

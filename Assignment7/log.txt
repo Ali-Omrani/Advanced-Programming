@@ -1,0 +1,65 @@
+command: login     
+   username: admin   password: password
+successful login attemp
+command: menu     
+day : SAT
+name : chicken kebab
+price : 28000
+day : SAT
+name : chicken wings
+price : 29500
+day : SUN
+name : chicken wings
+price : 28000
+menu was created successfuly
+command: show     
+ recipes
+successfuly printed recipes
+command: confirm     
+command: logout     
+successful logout 
+command: login     
+   username: hassan   password: 1234
+wrong_password_exception was caught
+command: login     
+   username: hassan   password: 12345
+successful login attemp
+command: show     
+ menu
+successfuly printed menu
+command: reserve     
+ day: SAT food name: chicken kebab
+successfuly reserved!
+command: reserve     
+ day: SUN food name: chicken wings
+command: show     
+ reservations
+successfuly printed reservations -----prof------
+command: logout     
+successful logout 
+command: login     
+   username: admin   password: password
+successful login attemp
+command: shipment     
+item name : chicken
+item amount : 13
+unit price : 16500
+shipment was added successfuly
+command: logout     
+successful logout 
+command: login     
+   username: taghi   password: s3cret
+successful login attemp
+command: reserve     
+ day: SAT food name: chicken wings
+successfuly reserved!
+command: logout     
+successful logout 
+command: login     
+   username: admin   password: password
+successful login attemp
+command: show     
+ reservations
+successfuly printed reservations -----admin------
+command: finilize     
+command: reservations     

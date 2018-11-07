@@ -1,0 +1,4 @@
+# 23-9-2015
+[chicken, 30, 1000], [rice, 1500, 650]
+# 01-11-2015
+[soysauce, 200, 73], [ginger, 300, 43], [blackpepper, 120, 8], [paprika, 20, 54], [rice, 250, 665]

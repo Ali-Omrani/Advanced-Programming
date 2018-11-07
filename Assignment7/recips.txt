@@ -1,0 +1,4 @@
+# polo khoresht e ghorme sabzi
+[sabzi, 20], [goosht, 5], [berenj, 14]
+# baghali polo
+[baghali, 10], [berenj, 17]
